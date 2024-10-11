@@ -1,0 +1,5 @@
+com\mycompany\observer\Runnable.class
+com\mycompany\observer\Cliente.class
+com\mycompany\observer\Subject.class
+com\mycompany\observer\Loja.class
+com\mycompany\observer\Observer.class
